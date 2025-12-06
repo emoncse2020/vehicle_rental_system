@@ -9,7 +9,7 @@ A backend API for a vehicle rental management system that handles:
 - **Bookings** – Handle vehicle rentals, returns, and cost calculation
 - **Authentication** – Secure role-based access control (Admin and Customer roles)
 
-**Live Demo:** [Vehicle Rental System](https://vehicle-rental-system-dg5r4ya29-emons-projects-fb54a655.vercel.app/)
+**Live Demo:** [Vehicle Rental System](https://vehicle-rental-system-two.vercel.app/)
 
 ---
 
