@@ -13,7 +13,7 @@ app.use(express.json());
 initDB();
 
 app.get("/", (req: Request, res: Response) => {
-  res.send("Hello Next Level Developers!");
+  res.send("Hello World!!");
 });
 app.use("/api/v1/auth", authRoutes);
 
